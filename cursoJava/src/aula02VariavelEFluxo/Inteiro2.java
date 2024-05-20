@@ -11,6 +11,5 @@ public class Inteiro2 {
 		System.out.println(subtracao);
 		System.out.println(divisao);
 		System.out.println(multiplicacao);
-		
 	}
 }
