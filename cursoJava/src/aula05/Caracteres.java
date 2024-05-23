@@ -10,7 +10,7 @@ public class Caracteres {
 		System.out.println(valor);
 		
 		valor = (char) (valor + 1);
-		System.out.println(valor);
+		System.out.println(valor); // será o Q 
 	}
 
 }
