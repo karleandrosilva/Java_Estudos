@@ -2,7 +2,6 @@ package aula06;
 
 public class Pratica01 {
 	public static void main(String[] args) {
-		System.out.println("Testando condiconais");
 		int idade = 15;
 		int quantidadePessoa = 1;
 		
