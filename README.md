@@ -1,2 +1,2 @@
 # java
- arquivos de aprendizados usado a linguagem java
+ arquivos de aprendizados usando a linguagem java
